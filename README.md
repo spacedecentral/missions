@@ -12,6 +12,14 @@ New projects can be proposed either as an individual and/or as self-organized te
 
 
 ## Pull Request Sample For Submitting a Project
+
+To submit an idea, follow these steps:
+* Fork the Future Forward GitHub repository
+* Create a new directory with your project’s name inside the proposals/ folder.
+* Inside that, either add a file for your project's proposal or create a README.md file that includes the full proposal
+* Create a Pull Request to merge your submission into the Future Forward repository. In that Pull Request, be sure to fill in all the relevant info (see below for sample)
+* Share your project in our chat to engage the community and discuss it's viability.
+
 ```
 # Space Plan Submission: {Project Name}
 
