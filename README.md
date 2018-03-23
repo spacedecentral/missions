@@ -4,7 +4,9 @@
 Developing a living, iteratively updated strategic plan for how all of our missions interconnect with one another.
 
 ## Project Harvest: Season 1
-We are inviting community participants to propose new space missions of interest so they can be considered in an upcoming voting round where we as a community decide the most top priority projects to focus our efforts. New projects can be proposed either as an individual and/or as self-organized teams. After ideas have been gathered, we will hold a vote and select one project to activate for each of the two categories:
+We are inviting community participants to propose new space missions of interest so they can be considered in an upcoming voting round, where we collectively decide the top priority projects to focus our efforts. 
+
+New projects can be proposed either as an individual and/or as self-organized teams. After ideas have been gathered, we will hold a vote and select one project to activate for each of the two categories:
 * Cat 1
 * Cat 2
 
