@@ -6,10 +6,16 @@ Developing a living, iteratively updated strategic plan for how all of our missi
 ## Project Harvest: Season 1
 We are inviting community participants to propose new space missions of interest so they can be considered in an upcoming voting round, where we collectively decide the top priority projects to focus our efforts. 
 
-New projects can be proposed either as an individual and/or as self-organized teams. After ideas have been gathered, we will hold a vote and select one project to activate for each of the two categories:
-* Cat 1
-* Cat 2
+New projects can be proposed either as an individual and/or as self-organized teams. After ideas have been gathered, we will hold a vote and select one project to activate for each of the three categories:
 
+* Category 1 - Robotic: near term mission with potential for immediate commercial applications. Relatively low cost, making use of current available technology or easily achievable innovation.
+E.g. Explore the halo orbit around L2 where the future Deep Space Gateway would be and broadcast a signal to show both the Earth and the Moon at the same time.
+
+* Category 2 - Human Spaceflight: near term mission to improve current technologies or facilities that support manned missions in space.
+E.g. A sample return facility on the Deep Space Gateway. 
+
+* Category 3 - Expansion: long-term mission with innovative ideas that pave the way for human settlements outside of Earth. 
+E.g. A city on the moon.
 
 ## Pull Request Sample For Submitting a Project
 
