@@ -20,6 +20,26 @@ To submit an idea, follow these steps:
 * Create a Pull Request to merge your submission into the Future Forward repository. In that Pull Request, be sure to fill in all the relevant info (see below for sample)
 * Share your project in our chat to engage the community and discuss it's viability.
 
+## Proposal Development:
+
+Your proposal should include the following details. Remember that the community will vote on the projects, so make sure your proposal is clear and objective!
+* Project Name: Do you have a cool name for the project?
+* Project Tagline: Describe the project in one sentence.
+* Goals: What is the proposal aiming to achieve?
+* Justification: Why is this an important idea that Space Decentral is uniquely positioned to develop? 
+Some sample questions to answer: Who else is working on this idea? Why is Space Decentral in a special position to develop the project? Are there any world cues/data that points to this being a viable idea? Is this an idea that has been ignored by the industry and why is now the right time?
+* Deliverables: As a result of this project becoming active, what deliverables do you propose become co-developed with the community over a duration of 3 months?
+e.g. a fully fledged project plan, engineering designs, software code
+* Commercialization: Provide a preliminary commercialization strategy that addresses key technical, market and business factors pertinent to the successful development of the proposed project.
+* Risks: Discuss potential barriers to entry, potential competitors, and risks.
+* Team: How many team members are currently committed to the project, and what is each person’s availability?
+* Project Manager: Does anyone on your team plan on being the project manager and leading this project with the community?
+Leaders are expected to help define tasks and develop momentum for the project.
+  If yes, how many years of project management experience do you have?
+  If yes, approximately how many hours a week can you contribute?
+* Video Presentation: Include a link to a 5-10 minute video presentation that is discussing the proposal.
+* Proposal File: (optional) Add a link to a detailed plan (PDF, word doc, google doc) if you have one.
+
 ```
 # Space Plan Submission: {Project Name}
 
