@@ -39,7 +39,7 @@ Your proposal should include the following details. Remember that the community 
 > e.g. a fully fledged project plan, engineering designs, software code
 * **Commercialization:** Provide a preliminary commercialization strategy that addresses key technical, market and business factors pertinent to the successful development of the proposed project.
 * **Risks:** Discuss potential barriers to entry, potential competitors, and risks.
-* **Team: Who are the team members, what are their backgrounds, and what is each person’s availability?
+* **Team:** Who are the team members, what are their backgrounds, and what is each person’s availability?
 * **Project Manager:** Does anyone on your team plan on being the project manager and leading this project with the community?
 Leaders are expected to help define tasks and develop momentum for the project.
   * If yes, how many years of project management experience do they have?
