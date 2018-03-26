@@ -22,7 +22,7 @@ Example: A sample return facility on the Deep Space Gateway.
 
 ### Category 3 — Expansion
 
-Long-term mission with innovative ideas that pave the way for human settlements outside of Earth.
+Forward looking mission with innovative ideas that pave the way for human settlements outside of Earth.
 
 Example: A city on the moon.
 
