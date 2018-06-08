@@ -28,6 +28,7 @@ Example: A city on the moon.
 
 
 ## Proposal Development
+NOTE: WE WILL PROVIDE AN UPDATE TO THESE REQUIREMENTS NO LATER THAN JUNE 30TH
 
 Your proposal should include the following details. Remember that the community will vote on the projects, so make sure your proposal is clear and objective!
 * **Project Name:** Do you have a cool name for the project?
