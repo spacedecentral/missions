@@ -1,5 +1,5 @@
 # Space Decentral - Future Forward
-[💬 Chat on Riot](https://riot.im/app/#/room/#spacedecentral-futureforward:matrix.org)
+[💬 Chat on Riot](https://riot.im/app/#/room/#spacedecentral-missions:matrix.org)
 
 Developing a living, iteratively updated strategic plan for how all of our missions interconnect with one another.
 
@@ -28,7 +28,7 @@ Example: A city on the moon.
 
 
 ## Proposal Development
-NOTE: WE WILL PROVIDE AN UPDATE TO THESE REQUIREMENTS NO LATER THAN JUNE 30TH
+NOTE: WE WILL PROVIDE AN UPDATE TO THESE REQUIREMENTS SOON
 
 Your proposal should include the following details. Remember that the community will vote on the projects, so make sure your proposal is clear and objective!
 * **Project Name:** Do you have a cool name for the project?
