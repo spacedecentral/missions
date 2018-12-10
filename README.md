@@ -45,14 +45,14 @@ All proposal documentation, except when stated otherwise, shall be submitted as 
 ## Required Deliverables
 The proposal should be between 8 to 15 pages long, and contain the following information:
 * Abstract (1 page max)
-    * Include the Mission Category and Domain(s) (see sections 3.1. and 3.2.)
+    * Include the Mission Category and Domain(s) (see sections 3.1. and 3.2. of the [rules](https://spacedecentral.net/docs/SMAP_Guidelines.pdf))
 * Technical Description
-* Value Proposition (see section 3.3.)
+* Value Proposition (see section 3.3 of the [rules](https://spacedecentral.net/docs/SMAP_Guidelines.pdf))
 * References (2 pages max)
 * Proposal Team (2 pages max)
     * Include biography, role and commitment levels
     * Specify whether any of the team members will be the project manager
-    * Specify percentage of SDN tokens each member shall receive (see section 3.6)
+    * Specify percentage of SDN tokens each member shall receive (see section 3.6 of the [rules](https://spacedecentral.net/docs/SMAP_Guidelines.pdf))
     
 ## Optional Deliverable
 While this is not required, a video may also be submitted,which can be helpful for participants in the Mission Activation Vote and will be the main publicity of your proposal to the greater public. The video should be up to 5 minutes maximum, and in .mov, .mp4, or .avi format. It can be a film, slideshow, animation, or similar that summarizes and explains the proposal.
