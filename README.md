@@ -66,4 +66,4 @@ To submit a proposal, follow these steps:
 * Create a Pull Request to merge your submission into the Future Forward repository. In that Pull Request, be sure to fill in all of the relevant info described above.
 * Share your project in our chat to engage the community and discuss it's viability.
 
-We will provide you more details and instructions at the end of April for how to submit a pull request in Github, and also the expected format of the pull request.
+We will provide you more details and instructions at the end of December for how to submit a pull request in Github, and also the expected format of the pull request.
