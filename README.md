@@ -50,6 +50,7 @@ The proposal should be between 8 to 15 pages long, and contain the following inf
 * Value Proposition (see section 3.3 of the [rules](https://spacedecentral.net/docs/SMAP_Guidelines.pdf))
 * References (2 pages max)
 * Proposal Team (2 pages max)
+    * Contact information   
     * Include biography, role and commitment levels
     * Specify whether any of the team members will be the project manager
     * Specify percentage of SDN tokens each member shall receive (see section 3.6 of the [rules](https://spacedecentral.net/docs/SMAP_Guidelines.pdf))
