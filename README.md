@@ -62,9 +62,7 @@ While this is not required, a video may also be submitted,which can be helpful f
 
 To submit a proposal, follow these steps:
 * Fork the Future Forward GitHub repository
-* Create a new directory with your project’s name inside the proposals/ folder.
+* In your repo, click on the proposals/ folder.
 * Inside that, either add a file for your project's proposal or create a README.md file that includes the full proposal
-* Create a Pull Request to merge your submission into the Future Forward repository. In that Pull Request, be sure to fill in all of the relevant info described above.
+* Create a Pull Request to merge your submission into the Missions repository. In that Pull Request, be sure to fill in all of the relevant info described above.
 * Share your project in our chat to engage the community and discuss it's viability.
-
-We will provide you more details and instructions at the end of December for how to submit a pull request in Github, and also the expected format of the pull request.
