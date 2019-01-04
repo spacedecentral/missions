@@ -3,8 +3,9 @@
 
 Developing a living, iteratively updated strategic plan for how all of our missions interconnect with one another.
 
+
 ## Call for proposals
-We are inviting community participants to propose new space missions of interest so they can be considered in an upcoming voting round, where we collectively decide the top priority projects to focus our efforts. 
+We are inviting community participants to propose new space missions of interest so they can be considered in an upcoming voting round, where we collectively decide the top priority projects to focus our efforts. Watch this [video](https://youtu.be/f6joePEsN-Q) to find out how to submit your proposal.
 
 New projects can be proposed either as an individual and/or as self-organized teams. After ideas have been gathered, we will hold a vote and select up to three projects to activate.  for each of the three categories:
 
@@ -60,9 +61,11 @@ While this is not required, a video may also be submitted,which can be helpful f
 
 # How to submit a proposal
 
-To submit a proposal, follow these steps:
+To submit a proposal, follow these steps. Here's a helpful [video](https://youtu.be/f6joePEsN-Q)
 * Fork the Future Forward GitHub repository
 * In your repo, click on the proposals/ folder.
 * Inside that, either add a file for your project's proposal or create a README.md file that includes the full proposal
 * Create a Pull Request to merge your submission into the Missions repository. In that Pull Request, be sure to fill in all of the relevant info described above.
 * Share your project in our chat to engage the community and discuss it's viability.
+
+ 
